@@ -49,7 +49,8 @@
 
 > 路由
 
-<img src="C:\Users\ASUS\AppData\Roaming\Typora\typora-user-images\image-20210605212236221.png" alt="image-20210605212236221" style="zoom:80%;" />
+![image-20210605212236221](https://user-images.githubusercontent.com/48879887/123497635-3851f880-d661-11eb-8a73-fceefe940ede.png)
+
 
 ## 总结
 
